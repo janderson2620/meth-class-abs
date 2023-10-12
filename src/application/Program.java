@@ -47,7 +47,7 @@ public class Program {
 			}
 		}
 		
-		System.out.println("ASHAPE AREAS");
+		System.out.println("SHAPE AREAS: ");
 		
 		for(Shape shape : list) {
 			System.out.println(shape.area());
